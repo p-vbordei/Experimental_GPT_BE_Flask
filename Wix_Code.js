@@ -7,8 +7,6 @@ import {to} from 'wix-core-utils';
 
 
 
-
-
 $w.onReady(function () {
 });
 
@@ -38,8 +36,9 @@ export async function processButton_click(event) {
 
 async function sendWebhookRequest(file) {
   // Your ngrok URL
-  const ngrokUrl = 'https://85f4-81-196-3-210.eu.ngrok.io/webhook';
+  const ngrokUrl = 'https://86af-81-196-3-210.eu.ngrok.io/webhook';
 
+ 
   try {
     const response = await fetch(ngrokUrl, {
       method: "POST",
@@ -51,14 +50,22 @@ async function sendWebhookRequest(file) {
 
     if (response.ok) {
       console.log("CSV data sent successfully.");
-
-      // Get the JSON response and display it in the Text element
-      const jsonResponse = await response.json();
-      $w('#responseText').text = jsonResponse.response;
+      const data = await response.json();
+      displayResults(data.results);
     } else {
       console.error("Failed to send CSV data.");
     }
   } catch (error) {
     console.error("Error sending CSV data:", error);
   }
+}
+
+function displayResults(results) {
+  const table = $w('#resultsTable');
+  table.rows = results.map(result => {
+    return {
+      "review": result.review,
+      "suggestion": result.suggestion,
+    };
+  });
 }
