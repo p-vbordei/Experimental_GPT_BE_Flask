@@ -51,6 +51,10 @@ async function sendWebhookRequest(file) {
 
     if (response.ok) {
       console.log("CSV data sent successfully.");
+
+      // Get the JSON response and display it in the Text element
+      const jsonResponse = await response.json();
+      $w('#responseText').text = jsonResponse.response;
     } else {
       console.error("Failed to send CSV data.");
     }
