@@ -1,9 +1,7 @@
 // Velo API Reference: https://www.wix.com/velo/reference/api-overview/introduction
-import wixData from 'wix-data';
-import wixUsers from 'wix-users';
-
-// Add this import at the beginning of the file
-import {to} from 'wix-core-utils';
+//import wixData from 'wix-data';
+//import wixUsers from 'wix-users';
+//import {to} from 'wix-core-utils';
 
 
 
@@ -15,6 +13,8 @@ import {fetch} from 'wix-fetch';
 
 let uploadedFile = null;
 
+
+
 export function uploadButton1_change(event) {
   if (event.error) {
     console.error("Upload error:", event.error);
@@ -23,6 +23,9 @@ export function uploadButton1_change(event) {
     uploadedFile = event.target.value;
   }
 }
+
+
+
 
 export async function processButton_click(event) {
   const file = uploadedFile;
@@ -33,6 +36,10 @@ export async function processButton_click(event) {
     console.error('No file selected.');
   }
 }
+
+
+
+
 
 async function sendWebhookRequest(file) {
   // Your ngrok URL
@@ -59,6 +66,8 @@ async function sendWebhookRequest(file) {
     console.error("Error sending CSV data:", error);
   }
 }
+
+
 
 function displayResults(results) {
   const table = $w('#resultsTable');

@@ -9,7 +9,7 @@ from flask_cors import CORS
 openai.api_key = "your-api-key"
 
 app = Flask(__name__)
-CORS(app)  # Enable CORS middleware
+CORS(app, origins=["https://binarybearcompany.wixsite.com"])
 api = Api(app)
 
 class ChatGPT(Resource):
