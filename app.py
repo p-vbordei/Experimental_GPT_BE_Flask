@@ -9,7 +9,7 @@ from flask_cors import CORS
 openai.api_key = "your-api-key"
 
 app = Flask(__name__)
-CORS(app, origins=["https://binarybearcompany.wixsite.com"])
+CORS(app)
 api = Api(app)
 
 class ChatGPT(Resource):
@@ -43,3 +43,8 @@ api.add_resource(ChatGPT, '/webhook')
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
+
+
+
