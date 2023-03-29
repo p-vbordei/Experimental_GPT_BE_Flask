@@ -8,12 +8,9 @@
 $w.onReady(function () {
 });
 
-
 import {fetch} from 'wix-fetch';
 
 let uploadedFile = null;
-
-
 
 export function uploadButton1_change(event) {
   if (event.error) {
@@ -23,9 +20,6 @@ export function uploadButton1_change(event) {
     uploadedFile = event.target.value;
   }
 }
-
-
-
 
 export async function processButton_click(event) {
   const file = uploadedFile;
@@ -61,6 +55,7 @@ async function sendWebhookRequest(file) {
     console.error("Error while sending CSV data:", error);
   }
 }
+
 
 
 
