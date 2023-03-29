@@ -4,6 +4,8 @@ import openai
 from flask import Flask, request
 from flask_restful import Resource, Api
 from flask_cors import CORS
+import dataPrep
+import gptQuerry
 
 # Replace with your OpenAI API key
 openai.api_key = "your-api-key"
@@ -48,3 +50,12 @@ if __name__ == '__main__':
 
 
 
+
+
+"""
+conda activate oaie
+cd Documents/Development/oaie1
+
+python app.py
+ngrok http 5000
+"""
