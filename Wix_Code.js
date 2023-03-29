@@ -33,7 +33,7 @@ export async function processButton_click(event) {
 
 async function sendWebhookRequest(file) {
   // Your ngrok URL
-  const ngrokUrl = 'https://9577-81-196-3-210.eu.ngrok.io/webhook';
+  const ngrokUrl = 'https://f6a5-81-196-3-210.eu.ngrok.io/webhook';
 
   try {
     const response = await fetch(ngrokUrl, {

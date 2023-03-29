@@ -6,6 +6,7 @@ from flask_restful import Resource, Api
 from flask_cors import CORS, cross_origin
 import dataPrep
 import gptQuerry
+import traceback
 
 # Replace with your OpenAI API key
 openai.api_key = "your-api-key"
@@ -22,26 +23,28 @@ class ChatGPT(Resource):
         print(request.headers)
         print(request.data)
 
-        raise Exception("Debugging")  # Add this line
-
-        csv_file = request.data.decode("utf-8")
-        with open('received.csv', 'w', encoding='utf-8') as f:
-            f.write(csv_file)
-
-        # Define 'results' variable as it was not defined in your code
-        results = "Sample response"
-
-        return {"results": results}
+        try:
+            csv_file = request.data.decode("utf-8")
+            with open('received.csv', 'w', encoding='utf-8') as f:
+                f.write(csv_file)
+                    
+            results = "Sample response" # Define 'results' variable as it was not defined in your code
+            return {"results": results}
+        except Exception as e:
+            tb_str = traceback.format_exception(type(e), e, e.__traceback__)
+            error_message = ''.join(tb_str)
+            print(error_message)  # Add this line to print the traceback to the terminal
+            return {"error": error_message}, 500
 
 api.add_resource(ChatGPT, '/webhook')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port = 8080)
 
 """
 conda activate oaie
 cd Documents/Development/oaie1
 
 python app.py
-ngrok http 5000
+ngrok http 8080
 """
