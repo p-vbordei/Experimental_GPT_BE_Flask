@@ -38,11 +38,7 @@ def clean_review(review):
     return re.sub(r'[^a-zA-Z0-9\s]+', '', review)
 
 def process_reviews(df):
-    df['cleaned_review'] = df['review'].apply(clean_review)
-    df['Counter'] = df.index
-    df['cleaned_review'] = df.apply( lambda row: process_review(row['cleaned_review'], row.name, row['Counter'] - row['review_num_tokens'] + 1, row['Counter']), axis=1)
-    df['review'] = df['cleaned_review'].copy()
-    df = df[['review']].copy()
+    df['review'] = df['review'].apply(clean_review)
     return df
 
 def create_review_dict(df: pd.DataFrame, column_name: str, encoding_name: str = 'cl100k_base', max_tokens: int = 3000) -> Dict[int, str]:
@@ -80,5 +76,11 @@ source = ("B07ZKTBGR2 - Blinger Ultimate Set, Glam Collection, Comes with  2023-
 df, asin = get_data(source, limit)
 df = process_reviews(df)
 reviews_dict = create_review_dict(df, column_name='review', encoding_name='cl100k_base', max_tokens=limit)
+
+# create a DataFrame from the review_dict
+df_reviews = pd.DataFrame.from_dict(reviews_dict, orient='index', columns=['review'])
+
+# save the DataFrame to a CSV file
+df_reviews.to_csv('reviews.csv', index_label='id')
 
 

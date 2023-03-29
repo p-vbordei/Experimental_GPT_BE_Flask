@@ -37,15 +37,10 @@ export async function processButton_click(event) {
   }
 }
 
-
-
-
-
 async function sendWebhookRequest(file) {
   // Your ngrok URL
-  const ngrokUrl = 'https://86af-81-196-3-210.eu.ngrok.io/webhook';
+  const ngrokUrl = 'https://9577-81-196-3-210.eu.ngrok.io/webhook';
 
- 
   try {
     const response = await fetch(ngrokUrl, {
       method: "POST",
@@ -63,7 +58,7 @@ async function sendWebhookRequest(file) {
       console.error("Failed to send CSV data.");
     }
   } catch (error) {
-    console.error("Error sending CSV data:", error);
+    console.error("Error while sending CSV data:", error);
   }
 }
 
