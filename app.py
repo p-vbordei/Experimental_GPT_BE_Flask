@@ -23,11 +23,31 @@ class ChatGPT(Resource):
         print(request.headers)
         print(request.data)
 
-        try:
+        """try:
             csv_file = request.data.decode("utf-8")
             with open('received.csv', 'w', encoding='utf-8') as f:
-                f.write(csv_file)
+                f.write(csv_file)"""
+        try:
+            csv_file = request.data.decode("utf-8")
+            
+            # Print the request data
+            print(request.data)
+            
+            csv_reader = csv.reader(io.StringIO(csv_file))
+            
+            # Check if the received data is a valid CSV file
+            if not any(csv_reader):
+                raise ValueError("Received data is not a valid CSV file")
+            
+            with open('received.csv', 'w', encoding='utf-8') as f:
+                # Write the CSV data line by line
+                for line in csv_file.splitlines():
+                    f.write(line)
+                    f.write('\n')
                     
+                    # Print the line to the console
+                    print(line)
+            
             results = "Sample response" # Define 'results' variable as it was not defined in your code
             return {"results": results}
         except Exception as e:
