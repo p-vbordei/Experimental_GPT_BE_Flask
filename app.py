@@ -1,15 +1,10 @@
 import csv
 import io
-import openai
+import json
 from flask import Flask, request
 from flask_restful import Resource, Api
 from flask_cors import CORS, cross_origin
-import dataPrep
-import gptQuerry
 import traceback
-
-# Replace with your OpenAI API key
-openai.api_key = "your-api-key"
 
 app = Flask(__name__)
 CORS(app, origins="*", allow_headers=["Content-Type", "Authorization", "Access-Control-Allow-Credentials"], methods=["GET", "HEAD", "POST", "OPTIONS", "PUT", "PATCH", "DELETE"])
@@ -23,6 +18,11 @@ class ChatGPT(Resource):
         print(request.headers)
         print(request.data)
 
+        # Parse the incoming JSON data and store the text in the 'input_text' variable
+        json_data = request.get_json()
+        input_text = json_data['text']
+        print(f'Input text: {input_text}')
+
         try:
             csv_file = request.data.decode("utf-8")
             with open('received.csv', 'w', encoding='utf-8') as f:
@@ -35,6 +35,8 @@ class ChatGPT(Resource):
             error_message = ''.join(tb_str)
             print(error_message)  # Add this line to print the traceback to the terminal
             return {"error": error_message}, 500
+        
+
 
 api.add_resource(ChatGPT, '/webhook')
 

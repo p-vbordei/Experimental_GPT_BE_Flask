@@ -13,7 +13,7 @@ def generate_responses(review_dict: Dict[int, str], prompts: [str], max_tokens: 
             response = openai.Completion.create(
                 engine="gpt-3.5-turbo",
                 prompt=input_text,
-                max_tokens=max_tokens,
+                max_tokens=max_tokens,pip install langflow
                 n=1,
                 stop=None,
                 temperature=0.7,
