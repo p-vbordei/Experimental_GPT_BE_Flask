@@ -3,6 +3,7 @@ from config import Config, Singleton
 import pinecone
 import openai
 
+
 cfg = Config()
 
 
