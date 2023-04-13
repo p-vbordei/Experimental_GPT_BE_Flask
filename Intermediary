@@ -1,0 +1,86 @@
+import json
+from langchain.agents import initialize_agent, load_tools, Tool
+from langchain.llms import OpenAI
+from langchain import SerpAPIWrapper, LLMChain, LLMMathChain, Wikipedia
+from langchain.utilities.wolfram_alpha import WolframAlphaAPIWrapper
+from langchain.chains.conversation.memory import ConversationBufferMemory
+from langchain.agents.react.base import DocstoreExplorer
+from config import Config
+from memory import BrainMemoryCreator, BrainMemoryRetriever
+from internaltools import (
+    PythonREPLTool,
+    CurrentTimeTool,
+    PyInterpreter,
+    PyPackageInstaller,
+    todolist,
+    WolframAlpha,
+    WebSearch2,
+    WebSearch,
+    CommandShell,
+    UrlSummary
+)
+
+
+cfg = Config()
+OPENAI_API_KEY = cfg.openai_api_key
+
+docstore = DocstoreExplorer(Wikipedia())
+llm = OpenAI(temperature=0, openai_api_key=OPENAI_API_KEY)
+
+conversationMemory = ConversationBufferMemory(memory_key="chat_history")
+search = SerpAPIWrapper()
+llm_math = LLMMathChain(llm=llm, verbose=True)
+wolfram = WolframAlphaAPIWrapper()
+
+memory_creator = BrainMemoryCreator()
+memory_retriever = BrainMemoryRetriever(memory_creator.memory)
+
+tools = [
+    Tool(name="Search", func=search.run, description="useful for answering questions about current events"),
+    Tool(name="Calculator", func=llm_math.run, description="useful for answering arithmetic questions"),
+    Tool(name="SearchWiki", func=docstore.search, description="useful for searching Wikipedia with keywords"),
+    Tool(name="LookupWiki", func=docstore.lookup, description="useful for looking up Wikipedia articles by title"),
+    Tool(name="MemoryCreator", func=memory_creator.add, description="useful for storing information in memory"),
+    Tool(name="MemoryRetriever", func=memory_retriever.get, description="useful for retrieving information from memory"),
+    PythonREPLTool(),
+    CurrentTimeTool(),
+    PyInterpreter(),
+    PyPackageInstaller(),
+    todolist(),
+    WolframAlpha(),
+    WebSearch2(),
+    WebSearch(),
+    CommandShell(),
+    UrlSummary(),
+]
+
+
+# Initialize the agent and load tools
+agent = initialize_agent()
+load_tools(agent, tools)
+
+def agent_process(prompt):
+    response = agent.react(prompt)
+    return response
+
+def main_agent():
+    while True:
+        user_input = input("User: ")
+        if user_input.lower() == "quit":
+            break
+
+        # The Agent processes the user_input and decides which tool to use
+        response = agent_process(user_input)
+
+        print("Agent:", response)
+
+if __name__ == "__main__":
+    main_agent()
+
+
+
+
+
+
+
+
