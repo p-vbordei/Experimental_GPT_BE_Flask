@@ -1,0 +1,818 @@
+Home
+
+
+Combining - 
+	Separating
+
+
+Symetry - 
+	Asymetry
+
+
+Homogenity - 
+	Diversity
+
+
+Expansion - 
+	Reduction
+Increase or reduce the number of functions in a system or process.   
+Increase or reduce the amount, duration, cost, speed or other properties of a process. 
+    
+
+
+Mobility - 
+	Immobility (Dynamic - Static)
+
+
+Consumption - 
+	Regeneration
+Elements, consumed in a system or process, are regenerated within the same system or process.  
+Elements, which have been consumed and have fulfilled their purpose, are removed or modified for other applications. 
+    
+
+
+Standardisation 
+	- Specialisation
+Use more standardised processes, procedures, methods and products.    
+Gain an advantage by utilising special processes, products or methods. 
+    
+
+
+Action - 
+	Reaction
+Amplify the required effect or action.  
+Obtain and amplify the opposite effect or action. 
+   
+
+
+Continuous 
+	action - Interrupted action
+Important processes are to be carried out without interruption or idle time. 
+They are to be performed at a steady load and constantly monitored.   
+Interrupt a continuous action; arrange pauses in a continuous process. 
+    
+
+
+Partial action - Excessive 
+	action
+To obtain a maximum or optimal effect, use surplus or excessive action. Protect sensitive areas from undesired excessive actions.   
+To obtain a maximum or optimal effect, focus on essential tasks. Intensify your activity in areas that give optimal results. 
+    
+
+
+Direct action  
+	Indirect action
+Replace an indirect action with a direct, immediate action.  
+Replace a direct, immediate action with an indirect action.
+    
+
+
+Prior action - 
+	Prior counteraction
+Perform a necessary useful action or measure (completely or partially) in advance, to obtain a stronger effect.  
+Carry out counteractions or preventive actions in advance, to avert unwanted effects. 
+    
+
+
+Dr. Pavel Livotov
+
+
+TriS AIDA  
+	      Toolbox	      
++ 
+Automatic 
+	    Idea & IP Generator
+Advanced Innovation Design Approach AIDA für erfolgreiche Innovationen
+
+Neu:  AIDA Automatic IDEA & IP GENERATOR (Flyer Download) deutschsprachige Version.
+	  IDEA & IP Generator: online-Training im 2. Halbjahr 2023. Termine/Info per E-Mail anfordern.
+
+Exklusiver Online-Kurs:  INNOVATION MASTER 2023 in AIDA + TRIZ (Flyer Download)
+	  im 2. Halbjahr 2023 - weitere Informationen  per E-Mail anfordern
+Mit einzigartigen Methoden und unserem branchenübergreifenden Know-how unterstützen 
+	  wir  Unternehmen,  präziser Kundenerwartungen zu treffen, 
+	  schneller neue Produktideen zu entwickeln und 
+	  somit den Innovations- und Geschäftserfolg zu sichern:
+
+Entwicklung 
+	von kunden- und marktorientierten Innovationsstrategien (mehr...)
+Erfinderische 
+	Lösung anspruchsvoller Probleme, Entwicklung neuer Produktkonzepte 
+	(mehr...) 
+Moderation von 
+	Innovationsworkshops und Projekten, Traning-on-the-job 
+	(mehr...) 
+ErfolgsChancen 
+            Test für neue Produkte, Technologien und Geschäftsideen (mehr...) 
+Toolbox 
+	TriS-AIDA 
+	für schnelle erfolgreiche Innovationen und erfinderische Ideen (mehr...)
+
+
+
+Segmentation
+a) Divide the object into independent parts. 
+b) Design the object to be sectional. 
+c) Increase the object's degree of segmentation. 
+ 
+ 
+
+
+Extraction
+a) Extract, remove or separate the "disturbing" parts or      properties from an object.      
+    b) Single out the only necessary part or property. 
+    
+b) Single out the only necessary part or property. 
+    
+
+
+Local Quality
+a) Transition from a homogeneous structure of an object      or it's surrounding medium (external influences) to a      heterogeneous structure.      
+    b) The various parts of the object should fulfil different      functions.    
+     c) Each part of the object should function under      conditions which are most suitable for its operation.      
+    d) Adapt the individual properties or parts of the object      to the required local conditions. 
+    
+b) The various parts of the object should fulfil different      functions.    
+     c) Each part of the object should function under      conditions which are most suitable for its operation.      
+    d) Adapt the individual properties or parts of the object      to the required local conditions. 
+    
+ c) Each part of the object should function under      conditions which are most suitable for its operation.      
+    d) Adapt the individual properties or parts of the object      to the required local conditions. 
+    
+d) Adapt the individual properties or parts of the object      to the required local conditions. 
+    
+
+
+Asymmetry
+a) Replace the symmetrical form of an object with one      that is asymmetrical.      
+    b) If the object is already asymmetrical, increase its      degree of asymmetry. 
+   
+b) If the object is already asymmetrical, increase its      degree of asymmetry. 
+   
+
+
+Combining
+a) Combine homogeneous objects or objects designed      for contiguous operation.    
+     b) Combine in time homogeneous or contiguous      operations.
+    
+ b) Combine in time homogeneous or contiguous      operations.
+    
+
+
+Universality
+If the object can perform several different functions, there is no need for other objects or elements, which can be removed.
+      
+
+
+Nesting (Integration)
+a) Russian Doll principle: an object is placed inside      another one, which, in turn, is placed inside a third      object and so on.    
+     b) An object is passed through the cavities in another     object. 
+    
+ b) An object is passed through the cavities in another     object. 
+    
+
+
+Anti-weight
+a) Compensate the object's weight by merging it with      another object that provides a lifting force.      
+    b) Compensate the object's weight by interaction with      another medium, e.g. aerodynamic or hydrodynamic     forces. 
+    
+b) Compensate the object's weight by interaction with      another medium, e.g. aerodynamic or hydrodynamic     forces. 
+    
+
+
+Prior Counteraction
+a) If it is necessary to perform a particular action,      counteractions must be taken in advance.     
+    b) If the object is (or will be) under stress, create stresses     in advance to oppose the undesirable working stress. 
+    
+b) If the object is (or will be) under stress, create stresses     in advance to oppose the undesirable working stress. 
+    
+
+
+Prior Action
+a) Perform the required action in advance,      either fully or partially.     
+    b) Pre-arrange the objects so they can come into action     at the most convenient position and without losing time.
+    
+b) Pre-arrange the objects so they can come into action     at the most convenient position and without losing time.
+    
+
+
+Cushion in Advance (Preventative Measure)
+Compensate for the poor reliability of an object by taking countermeasures in advance. 
+      
+
+
+Equipotentiality
+Change the working conditions so that an object doesn't have to be raised or lowered. 
+      
+
+
+Inversion (Other Way Round)
+a) Instead of performing an action dictated by the      specifications of the problem, carry out the reverse     action.     
+    b) Make a moving part of the object or the outside      environment fixed and the fixed part movable.      
+    c) Turn the object upside down.
+    
+b) Make a moving part of the object or the outside      environment fixed and the fixed part movable.      
+    c) Turn the object upside down.
+    
+c) Turn the object upside down.
+    
+
+
+Spheroidality
+a) Replace linear parts or flat surfaces with curved      ones. Replace cubic shapes with spherical ones.    
+     b) Use rollers, balls or spirals.     
+    c) Replace a linear motion with rotary movement.     Use centrifugal forces. 
+    
+ b) Use rollers, balls or spirals.     
+    c) Replace a linear motion with rotary movement.     Use centrifugal forces. 
+    
+c) Replace a linear motion with rotary movement.     Use centrifugal forces. 
+    
+
+
+Dynamism
+a) Make an object or its environment automatically adjust     to give optimal performance at each stage of operation.    
+     b) Divide an object into elements whose position changes     relative to one another.    
+     c) If an object is fixed, make it movable or adaptive.
+    
+ b) Divide an object into elements whose position changes     relative to one another.    
+     c) If an object is fixed, make it movable or adaptive.
+    
+ c) If an object is fixed, make it movable or adaptive.
+    
+
+
+Partial or Excessive Action
+If it is difficult to obtain exactly 100% of a desired effect, then by using slightly more or slightly less, the problem may be considerably simplified. 
+      
+
+
+Shift to Another Dimension
+a) Resolve problems which result from the linear     movement of an object by allowing two-dimensional      movement. Analogous to this, problems with     moving or placing objects in a two-dimensional      plane are resolved by a transition to a three-     dimensional space.    
+     b) Use a multi-layered assembly or structure instead     of a single layer.      
+    c) Tilt the object or lay it on its side.      
+    d) Use the reverse side of the object.      
+    e) Use the light or the radiation falling on the reverse     side of the object or within its environment. 
+    
+ b) Use a multi-layered assembly or structure instead     of a single layer.      
+    c) Tilt the object or lay it on its side.      
+    d) Use the reverse side of the object.      
+    e) Use the light or the radiation falling on the reverse     side of the object or within its environment. 
+    
+c) Tilt the object or lay it on its side.      
+    d) Use the reverse side of the object.      
+    e) Use the light or the radiation falling on the reverse     side of the object or within its environment. 
+    
+d) Use the reverse side of the object.      
+    e) Use the light or the radiation falling on the reverse     side of the object or within its environment. 
+    
+e) Use the light or the radiation falling on the reverse     side of the object or within its environment. 
+    
+
+
+Mechanical Vibration
+a) Cause an object to oscillate.     
+    b) If oscillation already exists, increase its frequency     (even ultrasonic).     
+    c) Use the resonant frequency of an object.      
+    d) Instead of mechanical vibrations, use piezo-electric     vibrators.      
+    e) Use ultrasonic vibrations in conjunction with an      electromagnetic field. 
+    
+b) If oscillation already exists, increase its frequency     (even ultrasonic).     
+    c) Use the resonant frequency of an object.      
+    d) Instead of mechanical vibrations, use piezo-electric     vibrators.      
+    e) Use ultrasonic vibrations in conjunction with an      electromagnetic field. 
+    
+c) Use the resonant frequency of an object.      
+    d) Instead of mechanical vibrations, use piezo-electric     vibrators.      
+    e) Use ultrasonic vibrations in conjunction with an      electromagnetic field. 
+    
+d) Instead of mechanical vibrations, use piezo-electric     vibrators.      
+    e) Use ultrasonic vibrations in conjunction with an      electromagnetic field. 
+    
+e) Use ultrasonic vibrations in conjunction with an      electromagnetic field. 
+    
+
+
+Periodic Action
+a) Replace a continuous action with a periodic or pulsed     one.     
+    b) If an action is already periodic, change its frequency.      
+    c) Use pauses between impulses to perform additional     actions. 
+    
+b) If an action is already periodic, change its frequency.      
+    c) Use pauses between impulses to perform additional     actions. 
+    
+c) Use pauses between impulses to perform additional     actions. 
+    
+
+
+Continuity of Useful Action
+a) Carry out an action continuously, without pauses.     All parts of an object should operate at full load.    
+     b) Eliminate all idle and intermittent actions or work. 
+    
+ b) Eliminate all idle and intermittent actions or work. 
+    
+
+
+Skipping (Rushing through)
+Perform a process, or individual stages (e.g. destructible or hazardous operations) at very high speed. 
+      
+
+
+Converting Harm into Benefit
+a) Utilize harmful factors or environmental effects to      obtain a positive effect.    
+     b) Remove a harmful factor by combining it with another      harmful factor.     
+    c) Amplify a harmful action to such a degree that it is no      longer harmful. 
+    
+ b) Remove a harmful factor by combining it with another      harmful factor.     
+    c) Amplify a harmful action to such a degree that it is no      longer harmful. 
+    
+c) Amplify a harmful action to such a degree that it is no      longer harmful. 
+    
+
+
+Feedback
+a) Introduce feedback.     
+    b) If feedback already exists, change it. 
+    
+b) If feedback already exists, change it. 
+    
+
+
+Mediator
+a) Use an intermediate object to transfer or carry out an      action.    
+     b) Connect one object temporarily with another that can      be easily removed. 
+    
+ b) Connect one object temporarily with another that can      be easily removed. 
+    
+
+
+Self-service
+a) Make the object service itself and carry out      supplementary and repair operations.    
+     b) Make use of wasted resources or energy. 
+    
+ b) Make use of wasted resources or energy. 
+    
+
+
+Copying
+a) Use a simple, inexpensive copy instead of an object      which is unavailable, complex, expensive, fragile and      difficult to operate.     
+    b) Replace an object or system with its optical copy.    
+     c) If visible optical copies are already being used,      replace them with infrared, ultraviolet, X-Rays copies     or shadows, computer-aided image processing, etc.
+    
+b) Replace an object or system with its optical copy.    
+     c) If visible optical copies are already being used,      replace them with infrared, ultraviolet, X-Rays copies     or shadows, computer-aided image processing, etc.
+    
+ c) If visible optical copies are already being used,      replace them with infrared, ultraviolet, X-Rays copies     or shadows, computer-aided image processing, etc.
+    
+
+
+Disposability (Cheap Short-living Objects)
+Replace an expensive object by a collection of inexpensive ones, forgoing certain qualities (e.g. longevity).
+      
+
+
+Replacement of a Mechanical System
+a) Replace a mechanical system by an optical, acoustic      or olfactory system.     
+    b) Use an electrical, magnetic or electromagnetic field to      interact with the object.       
+    c) Replace fields:      -> static fields to movable fields,      -> fixed fields to those which change in time,     -> random fields to structured fields.      
+    d) Use a field in conjunction with ferromagnetic particles. 
+    
+b) Use an electrical, magnetic or electromagnetic field to      interact with the object.       
+    c) Replace fields:      -> static fields to movable fields,      -> fixed fields to those which change in time,     -> random fields to structured fields.      
+    d) Use a field in conjunction with ferromagnetic particles. 
+    
+c) Replace fields:      -> static fields to movable fields,      -> fixed fields to those which change in time,     -> random fields to structured fields.      
+    d) Use a field in conjunction with ferromagnetic particles. 
+    
+d) Use a field in conjunction with ferromagnetic particles. 
+    
+
+
+Pneumatic and Hydraulic Constructions
+a) Replace solid parts of an object by gas or liquid.     These parts can use air or water for inflation,      or use air or hydrostatic cushions.    
+     b) Use negative pressure, partial vacuum and vacuum. 
+    
+ b) Use negative pressure, partial vacuum and vacuum. 
+    
+
+
+Flexible Shells and Thin Films
+a) Replace traditional constructions with those made of      flexible shells or thin films.     
+    b) Isolate the object from its environment using flexible      shells or thin films. 
+    
+b) Isolate the object from its environment using flexible      shells or thin films. 
+    
+
+
+Porous Materials
+a) Make an object porous or add porous elements:      inserts, covers, etc. 
+b) If an object is already porous, fill the pores with a     useful substance. 
+   
+
+
+Changing Colour
+a) Change the colour of an object or its external      environment.     
+    b) Change the degree of transparency of an object or its      external environment.    
+     c) Use coloured additives to observe an object or      process which is difficult to see.    
+     d) If such additives are already being used, add      luminescent traces or tracer elements.
+    
+b) Change the degree of transparency of an object or its      external environment.    
+     c) Use coloured additives to observe an object or      process which is difficult to see.    
+     d) If such additives are already being used, add      luminescent traces or tracer elements.
+    
+ c) Use coloured additives to observe an object or      process which is difficult to see.    
+     d) If such additives are already being used, add      luminescent traces or tracer elements.
+    
+ d) If such additives are already being used, add      luminescent traces or tracer elements.
+    
+
+
+Homogeneity
+Make objects interacting with a given object of the same material, or material with identical properties. 
+      
+
+
+Rejecting and Regenerating Parts
+a) After it has completed its function or become useless,      reject or modify (discard, dissolve, evaporate, etc.) an      element of an object.     
+    b) Immediately restore any part of an object which has      become exhausted or depleted. 
+    
+b) Immediately restore any part of an object which has      become exhausted or depleted. 
+    
+
+
+Transformation of the physical and chemical       properties
+a) Change an object's aggregate state (e.g. solid to liquid      or liquid to gas - or vice versa).      
+    b) Change the object's concentration or consistency.     
+    c) Change the object's degree of flexibility.  
+    d) Change the object's temperature.     
+    e) Use intermediate states of objects (e.g. quasi-liquids). 
+    
+b) Change the object's concentration or consistency.     
+    c) Change the object's degree of flexibility.  
+    d) Change the object's temperature.     
+    e) Use intermediate states of objects (e.g. quasi-liquids). 
+    
+c) Change the object's degree of flexibility.  
+    d) Change the object's temperature.     
+    e) Use intermediate states of objects (e.g. quasi-liquids). 
+    
+d) Change the object's temperature.     
+    e) Use intermediate states of objects (e.g. quasi-liquids). 
+    
+e) Use intermediate states of objects (e.g. quasi-liquids). 
+    
+
+
+Phase Transitions
+
+
+Thermal Expansion
+a) Use thermal expansion or contraction of materials.     
+    b) Use various materials with different coefficients of      thermal expansion. 
+    
+b) Use various materials with different coefficients of      thermal expansion. 
+    
+
+
+Strong Oxidants
+a) Replace common air with oxygen-enriched air.      
+    b) Replace oxygen-enriched air with pure oxygen.      
+    c) Expose air or oxygen to ionising radiation.     
+    d) Raise the ozone level.     
+    e) Replace ozonised or ionised air with ozone.
+    
+b) Replace oxygen-enriched air with pure oxygen.      
+    c) Expose air or oxygen to ionising radiation.     
+    d) Raise the ozone level.     
+    e) Replace ozonised or ionised air with ozone.
+    
+c) Expose air or oxygen to ionising radiation.     
+    d) Raise the ozone level.     
+    e) Replace ozonised or ionised air with ozone.
+    
+d) Raise the ozone level.     
+    e) Replace ozonised or ionised air with ozone.
+    
+e) Replace ozonised or ionised air with ozone.
+    
+
+
+Inert Environment
+a) Replace the normal environment with an inert one.    
+     b) Carry out the process in a vacuum. 
+    
+ b) Carry out the process in a vacuum. 
+    
+
+
+Composite Materials
+a) Replace a homogeneous material with a composite      one.     
+    b) Use a variety of materials in different aggregate      states. 
+    
+b) Use a variety of materials in different aggregate      states. 
+    
+
+
+Principles for Brainstorming
+ 
+Transformation of the physical and chemical properties
+Prior Action
+Segmentation
+Replacement of a Mechanical System
+Extraction 
+Dynamism
+Periodic Action
+Shift to Another Dimension
+Changing Colour 
+Inversion (Other Way Round)
+
+The use of  Inventive Principles consists of three system levels:
+ 
+    
+
+- System or objekt itself (e.g. office phone) 
+    - Sub-System (e.g. phone receiver) 
+    - Super-System and environment (e.g. telephone system and telefon network).
+
+
+
+    If you cannot find a satisfying solution use all the 40 
+    Inventive Principles.
+
+
+
+15 Principles for Construction and Design
+ 
+Segmentation
+Extraction
+Local Quality
+Asymmetry
+Combining
+Universality
+IntegrationAnty-weight
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Asymmetry
+Combining
+Universality
+IntegrationAnty-weight
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Combining
+Universality
+IntegrationAnty-weight
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Universality
+IntegrationAnty-weight
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+IntegrationAnty-weight
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Anty-weight
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Mediator
+Flexible Shells and Thin Films 
+Flexible Shells and Thin Films 
+The use of  Inventive Principles consists of three system levels:
+ 
+    
+
+- System or objekt itself (e.g. office phone) 
+    - Sub-System (e.g. phone receiver) 
+    - Super-System and environment (e.g. telephone system and telefon network).
+
+
+
+    If you cannot find a satisfying solution use all the 40 
+    Inventive Principles.
+
+
+
+40 
+    Inventive Principles
+Segmentation 
+ Extraction
+Local Quality 
+Asymmetry 
+Combining
+Universality
+Nesting (Integration) 
+Anti-weight 
+Prior Counteraction 
+Prior Action 
+Cushion in Advance (Preventative Measure) 
+Equipotentiality 
+Inversion (Other Way Round) 
+Spheroidality
+Dynamism
+Partial or Excessive Action
+Shift to Another Dimension 
+
+        Mechanical Vibration 
+Periodic Action
+Continuity of Useful Action
+Skipping (Rushing through)
+ Converting Harm into Benefit 
+Feedback 
+Mediator 
+Self-service 
+Copying
+ Disposability (Cheap Short-living Objects) 
+Replacement of a Mechanical System 
+Pneumatic and Hydraulic Constructions 
+ Flexible Shells and Thin Films 
+Porous Materials 
+Changing Colour
+Homogeneity 
+Rejecting and Regenerating Parts 
+Transformation of the physical and chemical       properties 
+Phase Transitions 
+Thermal Expansion 
+Strong Oxidants
+ Inert Environment 
+Composite Materials
+The use of 40 Inventive Principles consists of three system levels: 
+- System or objekt itself (e.g. office phone) 
+  - Sub-System (e.g. phone receiver) 
+    - Super-System and environment (e.g. telephone system and telephone network).
+
+
+
+    To work with the 40 Inventive Principles the best way to start are the          
+Principles for Brainstorming 
+or the    15 Principles for Construction and Design. If you cannot find a satisfying 
+	solution continue with all the 40 principles.
+
+    The
+    40 Inventive Principles are the most common TRIZ-instrument for solving techical 
+	problems. But they can also deliver interesting ideas for non-technical 
+	problems.
+
+
+
+Physical effects
+Effect - Action
+
+MECHANICAL VIBRATION, RESONANCE
+CENTRIFUGAL FORCE
+LIFTING FORCE, ARCHIMEDES’ PRINCIPLE
+THERMOMECHANICAL EFFECTS
+SHAPE MEMORY OF METALS
+MAGNETIC FIELD AND FERROMAGNETIC SUBSATNCES
+MAGNETOSTRICTION
+MAGNETIC LIQUIDS
+ELECTROSTATIC 
+ELECTRORHEOLOGIC LIQUIDS
+PIEZOELECTRIC EFFECT
+CORONA AND GAS DISCHARGES
+CAPILLARY AND POROUS MATERIALS
+APPLICATION OF FOAMED SUBSTANCES
+Action - Effect
+POSITIONING AND MOVEMENT OF OBJECTS
+MOVEMENT OF LIQUID OR GAS 
+MOVEMENT AND CONTROL OF AEROSOL FLOWS      (DUST, FOG, SMOKE) 
+STABILISATION OF OBJECT’S POSITION
+CREATION AND CHANGE OF FORCES AND PRESSURE
+CHANGE OF FRICTION
+DESTRUCTION OF OBJECTS
+MIXING OF SUBSTANCES
+SEPARATION OF SUBSTANCES 
+ACCUMULATION OF MECHANICAL AND THERMAL ENERGY
+
+		TRANSFER OF ENERGY 
+DECREASE OF TEMPERATURE 
+INCREASE OF TEMPERATURE
+STABILISATION OF TEMPERATURE
+MODIFICATION OF OBJECT’S DIMENSIONS
+MODIFICATION OF SURFACE PROPERTIES
+MODIFICATION OF VOLUME PROPERTIES 
+CREATION AND STABILISATION OF OBJECT’S STRUCTURE
+CREATION OF ELECTROMAGNETIC RADIATION 
+CONTROL OF ELECTROMAGNETIC FIELDS
+CONTROL AND MODULATION OF LIGHT 
+Measurement and detection 
+
+    Use also these physical effects for solving measurement and detection tasks.
+MEASURMENT OF MECHANICAL FORCES AND PRESSURES
+LOCATING AND DETECTION OF OBJECTS
+MEASUREMENT OF OBJECT’S DIMENSIONS 
+INSPECTION OF SURFACE PROPERTIES
+INSPECTION OF VOLUME PROPERTIES
+MEASUREMENT OF TEMPERATURE
+MEASUREMENT OF ELECTRIC AND MAGNETIC FIELDS
+MEASUREMENT OF RADIATION
+ANALYSIS OF SUBSTANCE COMPOUND
+
+
+Chemical effects
+Effect - Action 
+
+CHANGE OF AGGREGATE STATE
+DISSOLVING OF SUBSTANCES,  E.G. IN COMPRESSED GASES
+ELECTROLYSIS
+LUMINESCENCE AND CHEMILUMINESCENCE
+MOLECULAR SELF-ASSEMBLY
+REACTIONS WITH GAS EXTRACTION
+
+		SELF-PROPAGATION HIGH TEMPERATURE SYNTHESIS (SHS)
+
+		TRANSPORT REACTIONS
+THERMOCHEMICAL PROCESSES
+THERMO- AND PHOTOCHROMISM
+APPLICATION OF ADSORBENTS
+APPLICATION OF BURNING AND EXPLOSION
+APPLICATION OF HYDRATES AND GASEOUS HYDRATES
+APPLICATION OF HYDRIDES
+
+		APPLICATION OF COMPLEXONES 
+APPLICATION OF MEMBRANES
+Action - Effect
+MIXING, DISSOLVING AND SYNTHESIS OF SUBSTANCES
+SEPARATION OF SUBSTANCES
+GENERATION AND STABILIZATION OF SUBSTANCE STRUCTURE
+CHANGE OF SIZES AND MASS OF OBJECTS
+CHANGE OF SURFACE PROPERTIES
+CHANGE OF VOLUME, CONCENTRATION, DENSITY 
+
+		TRANSFER AND TRANSFORMATION OF ENERGY
+CHANGE OF OPTICAL PROPERTIES 
+Measurement and detection 
+ Use also these chemical effects for solving measurement and detection tasks.
+LOCATING AND DETECTION OF OBJECTS
+CONTROL OF SURFACE AND VOLUME PROPERTIES
+ANALYSIS OF CHEMICAL COMPOSITION AND INDICATION OF SUBSTANCES
+MEASUREMENT OF TEMPERATURE
+
+
+Geometric effects
+Effect - Action
+
+HELIX AND SPIRAL
+MOBIUS BAND
+ELLIPSE AND ELLIPSOID
+CYCLOIDS
+Action - Effect
+CHANGE OF GEOMETRICAL PROPERTIES: LENGTH, AREA, VOLUME, FORM
+AMPLIFICATION AND FOCUSSING OF FIELDS
+Examples of using geometric effects and forms:
+    
+Transition: Effect -> 
+		Duble eleffect, for example, helix -> Duble helix 
+Combination of two effects 
+		or forms: geometric effect 1 + geometric effect 2
+
+Combination of one effect 
+		with one moving form
+		
+
+Combination of one geometric form with one stuff
+		
+
+Combination of one 
+		geometric form (with stuff) or one effect with physical or chemical effects.
+		
+
+
+Combination of one effect 
+		with one moving form
+		
+Combination of one geometric form with one stuff
+		
+Combination of one 
+		geometric form (with stuff) or one effect with physical or chemical effects.
+		
+
+

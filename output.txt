@@ -1,0 +1,654 @@
+Text from https://triz.trisolver.eu/eng/ebf/triz_publikationen.htm:
+
+		 Systemic Approach for Enhancing Innovative and Competitive Capability of Industrial Companies.  Journal of the European TRIZ Association, Volume 02, 2016.
+
+		 Eight Fields of MATCEMIB Help Students to Generate More Ideas.  Procedia CIRP, Volume 39, 2016.
+
+		 Web-Based Asynchronous Distance Education in New Product Development and Inventive Problem Solving for Industrial Companies.  Procedia Engineering, Volume 131, 2015.
+
+		 TRIZ and 
+            Innovation 
+		    Management  INNOVATOR 
+		08-2008.
+
+Innovation 
+		strategy formulation - Case study.  TriS-Newsletter 
+		02-2008.
+
+Problemlösung auf 
+		Bestellung. Methodik des systematischen Erfindens TRIZ. INNOVATOR 
+		04-2008.
+
+
+		Technologieprognose und strategische Innovation. TriS-Newsletter 
+		01-2008.
+
+
+		Integration of Method of Systemic Constellations into Moderated 
+		Educational and Problem Solving Workshops with TRIZ for Technical and 
+		Non-Technical Tasks. TRIZ-Future Conference 2007, Frankfurt/Main, 
+		November 6-8, 2007.
+
+"TRIZ - die geheime Denkwaffe?"F&E Manager 01-2006
+
+
+		Innovation Excellence für den Mittelstand. Innovation Niedersachsen: 
+		aktuell, 08.2005.
+
+TRIZ im Innovationsprozess. 
+	Bericht über den Weltkongress: «Die weltweit besten Verfahren für 
+	Systematische Innovation am Beispiel der Automobilindustrie»,
+		Konstruktion & Engineering, 03/2004.
+
+The undervalued innovation 
+	potential. TRIZ-Journal, 03/2004.
+		
+
+
+		Differentiating the role of TRIZ in sustainable and disruptive 
+		innovation process. TRIZ Future Conference 2003. Aachen 12.-14. Nov. 
+		2003
+
+Die Meta-Erfindung.
+brand eins 8/2003.
+
+Modelling 40 Innovation 
+	Principles with «Moving Little People».
+		TRIZ-Journal, 07/2003. 
+
+Ermittlung verdeckter Fehler an 
+	Maschinen und Anlagen. Qualität & 
+	Zuverlässigkeit, 04/2003.
+
+Was bietet die Computer-Aided 
+	Innovation für den Konstrukteur? Konstruktionspraxis 2002 - der 
+	Kongress, C-Technik.
+
+Mit TRIZ Kosten kappen.
+Konstruktion & Engineering 11/2001.
+
+
+		TRIZ-Technologie: Software unterstützt das «Erfinden». Technische 
+		Rundschau Nr. 8/2001.
+
+TRIZ-based Innovation Principles 
+	and a Process for Problem Solving in Business and Management. 
+		ETRIA World Conference, Bath UK, 7-9 Nov. 2001.
+
+Approach to Complete Search of 
+	Innovation Concepts and Customization of TRIZ-Tools.
+		ETRIA World Conference, Bath UK, 7-9 Nov. 2001.
+
+Denkimpulse für Führungskräfte. 
+	Konstruktion & Engineering 02/2001.
+
+Die richtige Entscheidung zur 
+	richtigen Zeit - Inventorische Problemlösung mit TRIZ.
+	Technologie & Management 3-4/2000.
+
+Wie der Innovationsmotor in 
+	Schwung kommt. TRIZ: Industrieerfahrungen und Perspektiven.
+	Konstruktion & Engineering 06/2000.
+
+Das Undenkbare denken. 
+	Vorausschauende Fehlererkennung zur Ermittlung möglicher Störungen an 
+	Maschinen und Anlagen. QZ Qualität und 
+	Zuverlässigkeit, 03/2000.
+ 
+
+Contact: 
+	Dr.-Ing. Pavel Livotov
+ 
+
+Text from https://triz.trisolver.eu/eng/ebf/vrg04.htm:
+ 
+Transformation of the physical and chemical properties
+Prior Action
+Segmentation
+Replacement of a Mechanical System
+Extraction 
+Dynamism
+Periodic Action
+Shift to Another Dimension
+Changing Colour 
+Inversion (Other Way Round)
+
+The use of  Inventive Principles consists of three system levels:
+ 
+    
+
+- System or objekt itself (e.g. office phone) 
+    - Sub-System (e.g. phone receiver) 
+    - Super-System and environment (e.g. telephone system and telefon network).
+
+
+
+    If you cannot find a satisfying solution use all the 40 
+    Inventive Principles.
+
+
+Text from http://www.trisolver.eu:
+
+
+Home 
+Why TriSolver 
+ 
+           
+ Special offer: TRIZ software for breakthrough ideas 
+          & inventions
+TRiSolver
+
+  TriSolver  Basic - Special offer 2021 
+		  
+intuitive software that enhances your creative 
+		  thinking with TRIZ innovation principles for fast ideation
+		  Plattform: MS Windows 8
+		  Price: EUR 25,00 
+		  excl. VAT   (Download)
+		  Language: English or German
+   
+Order TriSolver 
+		  Basic 2.2 
+  TriSolver  Professional - Special offer 2023   
+classical TRIZ tool 
+		    that empowers you as 
+		    seasoned inventor and creative innovator
+TriSolver 
+		      Professional provides the complete  TRIZ-toolbox for 
+		      inventive and systematic problem solving.
+		      Plattform: MS Windows 8, 10 
+		    Price: EUR 95,00  excl. VAT     (Download, incl. free TRIZ Handbook 2022, 300p., PDF)
+Language: English and German
+
+ Order 
+    TriSolver Professional 2.2
+ 
+ 
+              
+			
+Learn more 
+			about TriSolver "IDEA GENERATOR & MANAGER"
+Software preview: How can TriSolver help me in my business and daily work?
+Compare Basic and Professional Edition
+Download free
+          Flash-Demo of TriSolver Professional (0,7 MB) 
+
+TRIZ 
+              Handbook 2022 - 300 pages 
+ 
+               
+			
+Learn more about TRIZ on TRIZ-it! - a free learning platform for innovators
+
+
+Text from https://triz.trisolver.eu/eng/ebf/ake.htm:
+Application Catalogue of Physical, Chemical and Geometric Effects 
+
+	Many good technical solutions are based on the application of physical, chemical, geometrical or other phenomena and effects. The Effects Catalogue has been built upon several years experience of applying these effects for inventive problem solving. Its primary function is to encourage the user in the search for further solution approaches.
+
+	In the column "Action - Effect" different effects are listed according to the desired effects or properties.
+
+	The application of physical and chemical effects for measurement and detection purposes is summarized in a separate sub-directory. 
+
+	For those effects that are frequently used to solve inventive problems, 
+	their  most common fields of application are listed in the column "Effect 
+	- Action" . 
+ 
+- 
+	Physical effects 
+- 
+	Chemical effects 
+- 
+	Geometric effects 
+
+        Author: Dr. Dr. Pavel Livotov
+
+Text from https://triz.trisolver.eu/eng/ebf/vrg05.htm:
+ 
+Segmentation
+Extraction
+Local Quality
+Asymmetry
+Combining
+Universality
+IntegrationAnty-weight
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Asymmetry
+Combining
+Universality
+IntegrationAnty-weight
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Combining
+Universality
+IntegrationAnty-weight
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Universality
+IntegrationAnty-weight
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+IntegrationAnty-weight
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Anty-weight
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Inversion (Other Way Round)
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Dynamism
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Shift to Another Dimension
+Mediator
+Flexible Shells and Thin Films 
+Mediator
+Flexible Shells and Thin Films 
+Flexible Shells and Thin Films 
+The use of  Inventive Principles consists of three system levels:
+ 
+    
+
+- System or objekt itself (e.g. office phone) 
+    - Sub-System (e.g. phone receiver) 
+    - Super-System and environment (e.g. telephone system and telefon network).
+
+
+
+    If you cannot find a satisfying solution use all the 40 
+    Inventive Principles.
+
+
+Text from https://triz.trisolver.eu/eng/ebf/vrg03.htm:
+Segmentation 
+ Extraction
+Local Quality 
+Asymmetry 
+Combining
+Universality
+Nesting (Integration) 
+Anti-weight 
+Prior Counteraction 
+Prior Action 
+Cushion in Advance (Preventative Measure) 
+Equipotentiality 
+Inversion (Other Way Round) 
+Spheroidality
+Dynamism
+Partial or Excessive Action
+Shift to Another Dimension 
+
+        Mechanical Vibration 
+Periodic Action
+Continuity of Useful Action
+Skipping (Rushing through)
+ Converting Harm into Benefit 
+Feedback 
+Mediator 
+Self-service 
+Copying
+ Disposability (Cheap Short-living Objects) 
+Replacement of a Mechanical System 
+Pneumatic and Hydraulic Constructions 
+ Flexible Shells and Thin Films 
+Porous Materials 
+Changing Colour
+Homogeneity 
+Rejecting and Regenerating Parts 
+Transformation of the physical and chemical       properties 
+Phase Transitions 
+Thermal Expansion 
+Strong Oxidants
+ Inert Environment 
+Composite Materials
+The use of 40 Inventive Principles consists of three system levels: 
+- System or objekt itself (e.g. office phone) 
+  - Sub-System (e.g. phone receiver) 
+    - Super-System and environment (e.g. telephone system and telephone network).
+
+
+
+    To work with the 40 Inventive Principles the best way to start are the          
+Principles for Brainstorming 
+or the    15 Principles for Construction and Design. If you cannot find a satisfying 
+	solution continue with all the 40 principles.
+
+    The
+    40 Inventive Principles are the most common TRIZ-instrument for solving techical 
+	problems. But they can also deliver interesting ideas for non-technical 
+	problems.
+
+
+Text from http://www.tris-europe.com:
+
+
+TriS AIDA  
+	      Toolbox	      
++ 
+Automatic 
+	    Idea & IP Generator
+Advanced Innovation Design Approach AIDA für erfolgreiche Innovationen
+
+Neu:  AIDA Automatic IDEA & IP GENERATOR (Flyer Download) deutschsprachige Version.
+	  IDEA & IP Generator: online-Training im 2. Halbjahr 2023. Termine/Info per E-Mail anfordern.
+
+Exklusiver Online-Kurs:  INNOVATION MASTER 2023 in AIDA + TRIZ (Flyer Download)
+	  im 2. Halbjahr 2023 - weitere Informationen  per E-Mail anfordern
+Mit einzigartigen Methoden und unserem branchenübergreifenden Know-how unterstützen 
+	  wir  Unternehmen,  präziser Kundenerwartungen zu treffen, 
+	  schneller neue Produktideen zu entwickeln und 
+	  somit den Innovations- und Geschäftserfolg zu sichern:
+
+Entwicklung 
+	von kunden- und marktorientierten Innovationsstrategien (mehr...)
+Erfinderische 
+	Lösung anspruchsvoller Probleme, Entwicklung neuer Produktkonzepte 
+	(mehr...) 
+Moderation von 
+	Innovationsworkshops und Projekten, Traning-on-the-job 
+	(mehr...) 
+ErfolgsChancen 
+            Test für neue Produkte, Technologien und Geschäftsideen (mehr...) 
+Toolbox 
+	TriS-AIDA 
+	für schnelle erfolgreiche Innovationen und erfinderische Ideen (mehr...)
+
+
+Text from https://triz.trisolver.eu/eng/ebf/vrg02.htm:
+ 
+Combining - 
+	Separating
+Symetry - 
+	Asymetry 
+Homogenity - 
+	Diversity 
+Expansion - 
+	Reduction
+Mobility - 
+	Immobility (Dynamic - Static) 
+ Consumption - 
+	Regeneration 
+Standardisation 
+	- Specialisation 
+Action - 
+	Reaction 
+Continuous 
+	action - Interrupted action
+Partial action - Excessive 
+	action 
+Direct action  
+	Indirect action
+Prior action - 
+	Prior counteraction 
+
+These Principles are also suitable for solving  technical problems. You can find related Inventive Principles under  HINT 
+	for each principle.
+ 
+    
+
+For more information contact the Author
+        Dr. Pavel Livotov
+
+
+Text from http://www.triz.trisolver.eu/:
+
+TRIZ Handbuch 2017
+
+TriSolver 
+	    TRIZ Software
+TriSolver 
+	    TRIZ Software
+Innovationstechnologie TRIZ 
+    - kompakte Einführung in TRIZ aus dem
+TRIZ-Handbuch
+
+Publikationen und Erfahrungsberichte 
+	über TRIZ und ihre Anwendung
+
+TRIZ Literaturverzeichnis in 
+	deutscher Sprache
+
+TRIZ Seminare und 
+	Training 
+
+Deutschsprachige TRIZ Software 
+
+    Zwei Gruppen von kreativen TRIZ-Lösungsprinzipien
+
+
+12 allgemeine Doppellprinzipien - zur kreativen Lösung organisatorischer Aufgaben z.B. im Management
+40 Innovationsprinzipien – zur Lösung vor allem technischer Aufgaben
+
+    Arbeit mit 40 Innovationsprinzipien beginnen Sie mit 
+    - 10 besten Prinzipien für Brainstorming 
+    - 13 besten Prinzipien für Konstruktion und Design
+    - 10 besten Prinzipien für kreative Kostenreduzierung
+ 
+        
+
+Anwendungskatalog wichtiger Effekte für die Lösung von Erfindungsaufgaben
+Alle Innovationsprinzipien und andere TRIZ Werkzeuge sind als 
+        intuitive SOFTWARE für 
+        IDEENGENERIERUNG und PROBLEMLÖSUNG in Deutsch oder 
+        Englisch zum Download verfügbar.  Weitere Informationen  
+        unter:  www.trisolver.eu
+
+Text from https://triz.trisolver.eu/eng/ebf/vrg06.htm:
+ 
+Segmentation
+Extraction
+Local Quality
+Universality
+Prior Action
+Partial or Excessive Action
+Partial or Excessive Action
+Self-service 
+Copying
+Disposability (Cheap Short-living Objects)
+Universality
+Prior Action
+Partial or Excessive Action
+Partial or Excessive Action
+Self-service 
+Copying
+Disposability (Cheap Short-living Objects)
+Prior Action
+Partial or Excessive Action
+Partial or Excessive Action
+Self-service 
+Copying
+Disposability (Cheap Short-living Objects)
+Partial or Excessive Action
+Partial or Excessive Action
+Self-service 
+Copying
+Disposability (Cheap Short-living Objects)
+Partial or Excessive Action
+Self-service 
+Copying
+Disposability (Cheap Short-living Objects)
+Self-service 
+Copying
+Disposability (Cheap Short-living Objects)
+Copying
+Disposability (Cheap Short-living Objects)
+Disposability (Cheap Short-living Objects)
+The use of 
+	Inventive Principles consists of three system levels:
+  
+- System or 
+	objekt itself (e.g. office phone) 
+	- Sub-System (e.g. phone receiver) 
+	- Super-System and environment (e.g. telephone system and telefon network).
+
+	If you cannot find a satisfying solution use all the 40 
+	Inventive Principles.
+
+
+Text from https://triz.trisolver.eu/eng/ebf/vrg07.htm:
+
+     
+Background and Definitions
+TRIZ - Components
+TRIZ - Components synoptical table
+40 Inventive principles to overcome technical 
+	contradictions 
+76 Standard solutions
+Algorithm for inventive problem solving - ARIZ
+Database of technological effects
+TRIZ Software
+Success potential of TRIZ and CAI
+Implementation of TRIZ and CAI in companies
+      
+
+Background and Definitions
+TRIZ - Components
+TRIZ - Components synoptical table
+40 Inventive principles to overcome technical 
+	contradictions 
+76 Standard solutions
+Algorithm for inventive problem solving - ARIZ
+Database of technological effects
+TRIZ Software
+Success potential of TRIZ and CAI
+Implementation of TRIZ and CAI in companies
+      
+
+TRIZ - Components
+TRIZ - Components synoptical table
+40 Inventive principles to overcome technical 
+	contradictions 
+76 Standard solutions
+Algorithm for inventive problem solving - ARIZ
+Database of technological effects
+TRIZ Software
+Success potential of TRIZ and CAI
+Implementation of TRIZ and CAI in companies
+      
+
+TRIZ - Components synoptical table
+40 Inventive principles to overcome technical 
+	contradictions 
+76 Standard solutions
+Algorithm for inventive problem solving - ARIZ
+Database of technological effects
+TRIZ Software
+Success potential of TRIZ and CAI
+Implementation of TRIZ and CAI in companies
+      
+
+40 Inventive principles to overcome technical 
+	contradictions 
+76 Standard solutions
+Algorithm for inventive problem solving - ARIZ
+Database of technological effects
+TRIZ Software
+Success potential of TRIZ and CAI
+Implementation of TRIZ and CAI in companies
+      
+
+76 Standard solutions
+Algorithm for inventive problem solving - ARIZ
+Database of technological effects
+TRIZ Software
+Success potential of TRIZ and CAI
+Implementation of TRIZ and CAI in companies
+      
+
+Algorithm for inventive problem solving - ARIZ
+Database of technological effects
+TRIZ Software
+Success potential of TRIZ and CAI
+Implementation of TRIZ and CAI in companies
+      
+
+Database of technological effects
+TRIZ Software
+Success potential of TRIZ and CAI
+Implementation of TRIZ and CAI in companies
+      
+
+TRIZ Software
+Success potential of TRIZ and CAI
+Implementation of TRIZ and CAI in companies
+      
+
+Success potential of TRIZ and CAI
+Implementation of TRIZ and CAI in companies
+      
+
+Implementation of TRIZ and CAI in companies
+      
+
+      
+ 
+
+        Author: Dr. Pavel Livotov
+ 
+
+Text from http://www.trisolver.eu/news/news_3.htm:
+
+Aktuell
+TriSolver Newsletter
+
+Publikationen
+           
+
+                        Books and publications:
+
+Pavel Livotov, Vladimir Petrov: 
+          TRIZ Innovation Technology. Product development and problem solving. Handbook. 2016, 
+284 Pages,Price: 120,00 Euro (plus 19% VAT). 
+  		  Also as E-Book (PDF) available.Order under: 
+info@trisolver.eu
+ 
+Systemic Approach for Enhancing Innovative and Competitive Capability of Industrial Companies.
+  (in German: Systemischer Ansatz zur Steigerung der Innovations-und Wettbewerbsfähigkeit von Industrieunternehmen). Journal of the European TRIZ Association, Volume 02, 2016. 
+Estimation of New-Product Success by Company's Internal Experts in the Early Phases of Innovation Process.  Procedia CIRP, Volume 39, 2016. 
+Eight Fields of MATCEMIB Help Students to Generate More Ideas.  Procedia CIRP, Volume 39, 2016. 
+Web-Based Asynchronous Distance Education in New Product Development and Inventive Problem Solving for Industrial Companies.  Procedia Engineering, Volume 131, 2015. 
+The Principle of Feeling  The Method of Structural Systemic Constellations for Technical Problem Solving and Decision Making.  Procedia Engineering, Volume 131, 2015. 
+Measuring Motivation and Innovation Skills in Advanced Course in New Product Development and Inventive Problem Solving with TRIZ for Mechanical Engineering Students.  Procedia Engineering, Volume 131, 2015. 
+TRIZ 
+and Innovation Management  INNOVATOR 08-2008. 
+Integration 
+of Method of Systemic Constellations into Moderated Educational and Problem 
+Solving Workshops with TRIZ for Technical and Non-Technical Tasks. TRIZ-Future 
+Conference 2007, Frankfurt/Main, November 6-8, 2007. 
+The 
+undervalued innovation potential. 
+TRIZ-Journal, 03/2004.  
+Differentiating 
+the role of TRIZ in sustainable and disruptive innovation process. TRIZ 
+Future Conference 2003. Aachen 12.-14. Nov. 2003 
+Modelling 
+40 Innovation Principles with «Moving Little People».
+TRIZ-Journal, 07/2003.  
+TRIZ-based Innovation Principles and a Process for Problem Solving in Business and Management.Proceedings of the ETRIA World Conference, Bath UK, 7-9 Nov. 2001 
+The Laws of System Evolution.Proceedings of the ETRIA World Conference, Bath UK, 7-9 Nov. 2001 
+Approach to Complete Search of Innovation Concepts and Customization of TRIZ-Tools. Proceedings of the ETRIA World Conference, Bath UK, 7-9 Nov. 2001 
+
+

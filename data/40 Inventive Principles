@@ -1,0 +1,141 @@
+The 40 Inventive Principles
+
+
+To provide enough context for a large language model (LLM) to apply the 40 Inventive Principles, the prompt document should give an overview of the TRIZ methodology, the problem at hand, and a brief description of each of the 40 principles. Below is an LLM prompt document, which is approximately 2000 tokens long:
+
+TRIZ and the 40 Inventive Principles
+TRIZ is a problem-solving methodology developed by Genrich Altshuller, a Russian inventor and engineer. It is based on the analysis of patents and aims to identify and resolve contradictions in the design and development of new products and systems. One of the core elements of TRIZ is the 40 Inventive Principles, which serve as a set of guidelines for generating innovative ideas and solving problems.
+
+The 40 Inventive Principles are grouped into five categories:
+1. Improving the System
+2. Eliminating or Reducing Harmful Effects
+3. Enhancing Useful Effects
+4. Detecting and Measuring Effects
+5. System Transition and Evolution
+
+
+The goal is to apply these principles to identify innovative solutions to the problem at hand, which revolves around [PROBLEM STATEMENT]. Below is a brief description of each principle, followed by examples of how they could be applied to the problem:
+
+1. Segmentation
+Divide an object or system into independent parts or make it modular. Apply this principle to [PROBLEM STATEMENT] by breaking down the system into smaller, more manageable components.
+
+2. Taking Out
+Separate a harmful or interfering part from the system. In the context of [PROBLEM STATEMENT], identify and isolate any elements causing negative effects.
+
+3. Local Quality
+Adjust an object or system to make it optimal for specific conditions or requirements. Modify parts of the system related to [PROBLEM STATEMENT] to better suit specific use cases.
+
+4. Asymmetry
+Introduce asymmetry to an object or system to improve its functionality. Apply this principle to [PROBLEM STATEMENT] by changing the symmetry of certain components, if applicable.
+
+5. Merging
+Combine similar or complementary objects or systems to reduce complexity. In the context of [PROBLEM STATEMENT], merge compatible elements to simplify the overall system.
+
+6. Universality
+Make a part or system perform multiple functions, reducing the need for additional components. Apply this principle to [PROBLEM STATEMENT] by enabling components to perform multiple tasks.
+
+7. Nested Doll
+Place an object or system within another, creating a hierarchy or multi-layered structure. In the context of [PROBLEM STATEMENT], explore possibilities for nesting components or systems.
+
+8. Counterweight
+Balance the forces or effects within a system by introducing counteracting elements. Apply this principle to [PROBLEM STATEMENT] by identifying and implementing counterbalances where needed.
+
+9. Preliminary Action
+Perform preparatory actions or pre-arrange elements to reduce the complexity of the main task. In the context of [PROBLEM STATEMENT], identify actions that can be taken in advance to simplify the problem.
+
+10. Preliminary Counteraction
+Anticipate and counteract harmful effects or potential problems before they occur. Apply this principle to [PROBLEM STATEMENT] by identifying potential issues and addressing them proactively.
+
+11. Cushion in Advance
+Prepare for potential harm or damage by adding protective elements. In the context of [PROBLEM STATEMENT], consider incorporating safeguards or protective features.
+
+12. Equipotentiality
+Minimize or eliminate the need for object or system adjustments by maintaining a constant environment or conditions. Apply this principle to [PROBLEM STATEMENT] by identifying ways to stabilize the environment or conditions.
+
+13. Inversion
+Invert the action or effect of an object or system to achieve the desired result. Apply this principle to [PROBLEM STATEMENT] by considering alternative ways to approach the problem or achieve the desired outcome.
+
+14. Spheroidality
+Replace linear or angular elements with curved or spherical ones to improve efficiency or reduce harmful effects. In the context of [PROBLEM STATEMENT], explore the use of curved or rounded components to optimize the system.
+
+15. Dynamicity
+Introduce dynamic elements to a system, allowing it to adapt or change as needed. Apply this principle to [PROBLEM STATEMENT] by incorporating adaptive components or features that respond to changing conditions.
+
+16. Partial or Excessive Action
+Perform actions or introduce elements beyond the required scope to account for potential changes or uncertainties. In the context of [PROBLEM STATEMENT], consider implementing solutions that exceed the minimum requirements to accommodate unforeseen circumstances.
+
+17. Moving to a New Dimension
+Move an object or system to a different dimension or plane to improve its functionality or reduce harmful effects. Apply this principle to [PROBLEM STATEMENT] by exploring alternative dimensions or orientations for components or systems.
+
+18. Mechanical Vibration
+Introduce vibrations or oscillations to an object or system to improve performance or reduce harmful effects. In the context of [PROBLEM STATEMENT], consider the use of vibrations or oscillations to optimize the system.
+
+19. Periodic Action
+Introduce periodic or intermittent actions to a system, rather than continuous ones. Apply this principle to [PROBLEM STATEMENT] by incorporating periodic or intermittent actions where appropriate.
+
+20. Continuity of Useful Action
+Ensure that useful actions or effects are continuous and uninterrupted. In the context of [PROBLEM STATEMENT], identify ways to maintain the continuity of beneficial aspects of the system.
+
+21. Rushing Through
+Perform processes or actions at high speed to reduce harmful effects or improve efficiency. Apply this principle to [PROBLEM STATEMENT] by increasing the speed of specific actions or processes.
+
+22. Convert Harm to Benefit
+Transform harmful effects or waste products into useful ones. In the context of [PROBLEM STATEMENT], identify opportunities to repurpose harmful effects or waste products for beneficial purposes.
+
+23. Feedback
+Introduce feedback loops to improve the performance or functionality of a system. Apply this principle to [PROBLEM STATEMENT] by incorporating feedback mechanisms to enhance the system's effectiveness.
+
+24. Intermediary
+Introduce an intermediary component or substance to improve the performance or functionality of a system. In the context of [PROBLEM STATEMENT], explore the use of intermediary elements to optimize the system.
+
+25. Self-service
+Make an object or system perform self-maintenance or self-improvement tasks. Apply this principle to [PROBLEM STATEMENT] by incorporating self-maintenance or self-improvement features.
+
+26. Copying
+Replicate or simulate a successful solution from another domain or context. In the context of [PROBLEM STATEMENT], identify successful solutions in other domains that could be adapted or applied.
+
+27. Inexpensive Short Life
+Replace expensive, long-lasting components with cheaper, disposable ones. Apply this principle to [PROBLEM STATEMENT] by considering the use of disposable or low-cost components to reduce costs.
+
+28. Replacement of Mechanical System
+Replace mechanical systems with non-mechanical ones, such as optical, acoustic, or magnetic systems. In the context of [PROBLEM STATEMENT], explore the potential for replacing mechanical systems with alternative options.
+
+29. Pneumatic or Hydraulic Construction
+Use pneumatic or hydraulic systems to improve the performance or functionality of a system. Apply this principle to [PROBLEM STATEMENT] by considering the use of pneumatic or hydraulic components or systems.
+
+30. Flexible Shells or Thin Films
+Replace rigid structures with flexible shells or thin films to improve performance or functionality. In the context of [PROBLEM STATEMENT], explore the use of flexible materials or structures to optimize the system.
+
+31. Porous Materials
+Introduce porous materials to improve the performance or functionality of a system, such as filtering or absorbing harmful substances. Apply this principle to [PROBLEM STATEMENT] by considering the use of porous materials for specific applications.
+
+32. Changing the Color
+Alter the color or appearance of an object or system to improve its functionality or reduce harmful effects. In the context of [PROBLEM STATEMENT], explore the impact of changing colors or appearances on the system's performance.
+
+33. Homogeneity
+Use materials or components with similar properties to improve the performance or functionality of a system. Apply this principle to [PROBLEM STATEMENT] by identifying opportunities to use homogeneous materials or components.
+
+34. Discarding or Recovering
+Discard or recover used parts of a system to reduce waste or harmful effects. In the context of [PROBLEM STATEMENT], explore options for discarding or recovering used components.
+
+35. Parameter Changes
+Change the parameters of an object or system to improve its performance or functionality. Apply this principle to [PROBLEM STATEMENT] by identifying parameters that could be altered to enhance the system.
+
+36. Phase Transitions
+Utilize phase transitions (e.g., solid to liquid, liquid to gas) to improve the performance or functionality of a system. In the context of [PROBLEM STATEMENT], explore the use of phase transitions to optimize the system.
+
+37. Thermal Expansion
+Take advantage of thermal expansion or contraction to improve the performance or functionality of a system. Apply this principle to [PROBLEM STATEMENT] by considering the effects of thermal expansion or contraction on the system.
+
+38. Strong Oxidants
+Utilize strong oxidizing agents to improve the performance or functionality of a system. In the context of [PROBLEM STATEMENT], explore the use of strong oxidants for specific applications.
+
+39. Inert Atmosphere
+Create an inert atmosphere to reduce harmful effects or improve the performance of a system. Apply this principle to [PROBLEM STATEMENT] by considering the use of an inert atmosphere where needed.
+
+40. Composite Materials
+Use composite materials to improve the performance or functionality of a system. In the context of [PROBLEM STATEMENT], explore the potential benefits of incorporating composite materials.
+
+The LLM should apply the 40 Inventive Principles to the problem at hand by considering each principle's relevance and potential impact on the problem. The LLM should generate innovative ideas and propose solutions based on these principles, addressing the specific needs and requirements of the problem statement.
+
+

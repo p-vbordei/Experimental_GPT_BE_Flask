@@ -1,0 +1,73 @@
+Start
+ │
+ ├─► Task 0: List main issues from reviews
+ │      │
+ │      └─► Deliverable: issues_list
+ │
+ ├─► Task 1: Identify contradictions
+ │      │
+ │      └─► Deliverable: contradictions_list
+ │
+ ├─► Task 2: Prioritize contradictions
+ │      │
+ │      └─► Deliverable: contradictions_ranking
+ │
+ ├─► Task 3: Determine relevant parameters using TRIZ matrix
+ │      │
+ │      └─► Deliverable: relevant_parameters
+ │
+ ├─► Task 4: Identify 40 Inventive Principles
+ │      │
+ │      └─► Deliverable: inventive_principles
+ │
+ ├─► Task 5: Match principles to contradictions
+ │      │
+ │      └─► Deliverable: principles_to_contradictions
+ │
+ ├─► Task 6: Apply matched principles to contradictions
+ │      │
+ │      └─► Deliverable: innovative_ideas
+ │
+ ├─► Task 7: Apply ARIZ for further analysis and ideas
+ │      │
+ │      └─► Deliverable: ARIZ_ideas
+ │
+ ├─► Task 8: Perform Su-Field analysis
+ │      │
+ │      └─► Deliverable: Su_Field_ideas
+ │
+ ├─► Task 9: List all generated ideas and solutions
+ │      │
+ │      └─► Deliverable: all_ideas
+ │
+ ├─► Task 10: Assess feasibility of solutions
+ │      │
+ │      └─► Deliverable: feasible_ideas
+ │
+ ├─► Task 11: Evaluate cost-effectiveness
+ │      │
+ │      └─► Deliverable: cost_effective_ideas
+ │
+ ├─► Task 12: Estimate potential impact on user experience
+ │      │
+ │      └─► Deliverable: high_impact_ideas
+ │
+ ├─► Task 13: Rank solutions based on feasibility, cost, and impact
+ │      │
+ │      └─► Deliverable: ranked_solutions
+ │
+ ├─► Task 14: Choose top-ranked solution(s) for further development
+ │      │
+ │      └─► Deliverable: selected_solutions
+ │
+ ├─► Task 15: Develop prototype(s)
+ │      │
+ │      └─► Deliverable: prototypes
+ │
+ ├─► Task 16: Test prototype(s) and gather user feedback
+ │      │
+ │      └─► Deliverable: user_feedback
+ │
+ └─► Task 17: Refine prototype(s) based on user feedback
+        │
+        └─► Deliverable: final_prototype
